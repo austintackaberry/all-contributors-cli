@@ -82,6 +82,12 @@ npm run contributors:generate
 
 ## Usage
 
+> We recommend that you install all-contributors-cli as a dependency in 
+> your project. If you do that then you can run the all-contributors binary
+> from within your package.json scripts, or you can run it in your terminal
+> with `npx all-contributors`. Below we'll just show `all-contributors` to 
+> keep things simple.
+
 ### Generating the contributors list
 
 Use `generate` to generate the contributors list and inject it into your
